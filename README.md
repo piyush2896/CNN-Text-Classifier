@@ -41,4 +41,4 @@ optional arguments:
 ```
 
 ## Model
-![](images\model.png)
+![](images/model.png)
